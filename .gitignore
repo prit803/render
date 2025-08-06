@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.log
+
+# Virtual Environment
+.venv/
+env/
+venv/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+
+# Env Files
+.env
+.env.*
+
+# Compiled
+*.egg-info/
+*.db
+
+# Render/Deployment
+render.yaml
